@@ -1,2 +1,2 @@
 *TESTEGIT*
-Repositório de teste do GIT
+- Repositório de teste do GIT
